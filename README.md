@@ -3,6 +3,8 @@
 
 To predict which plant is affected by bacteria and which is not affected by bacteria.
 
+![Screenshot 2023-12-09 220728](https://github.com/Harikesavan77/Plant_Disease/assets/120177130/132e73e7-a1d1-4c95-a90e-c9a3213d1548)
+
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
