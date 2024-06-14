@@ -1,7 +1,7 @@
 
 # Plant Disease Classification
 
-To predict which plant is affected by bacteria and which is not affected by bacteria.
+To predict which plant is affected by bacteria and which is not, first collect and preprocess labeled data on healthy and infected plants. Train a classification model, such as a convolutional neural network (CNN), using features from images or sensor data. Validate and test the model to ensure accuracy. Use the trained model to classify new plant data as either affected by bacteria or healthy.
 
 ![Screenshot 2023-12-09 220728](https://github.com/Harikesavan77/Plant_Disease/assets/120177130/132e73e7-a1d1-4c95-a90e-c9a3213d1548)
 
